@@ -169,7 +169,7 @@
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][oss icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][freeware icon]
 - [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
-- [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite. ![Freeware][freeware icon]
+- [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite. [![Open-Source Software][oss icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][freeware icon]
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][oss icon]](http://openoffice.apache.org/source.html) ![Freeware][freeware icon]
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][oss icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][freeware icon]
 - [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][freeware icon]
